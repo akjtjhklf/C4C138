@@ -1,0 +1,10 @@
+h1, h2, h3 { 
+    text-align: center;
+    background-color: azure;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: medium;
+    font-weight: 600;
+}
+h2 {
+    text-align: center;
+}
